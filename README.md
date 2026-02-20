@@ -3,6 +3,11 @@
 
 Em resumo, o web scraping é uma forma de coletar dados estruturados a partir de fontes não estruturadas na web — transformando páginas HTML em datasets úteis para análise, aprendizado de máquina, automação e relatórios, desde que feito com responsabilidade e dentro dos limites éticos e legais.
 
+![FB_IMG_1735839034899](https://github.com/user-attachments/assets/9f2416bb-e69c-4115-a296-e29d8772f503)
+![FB_IMG_1735839040474](https://github.com/user-attachments/assets/4264a5e2-45f3-45a9-8256-71477561a9cb)
+![FB_IMG_1735839051637](https://github.com/user-attachments/assets/da293070-2dd5-4379-8a54-95c558ad9cb5)
+![FB_IMG_1735839060017](https://github.com/user-attachments/assets/becb6f34-6db3-4a10-b1ea-a4469759dab1)
+
 Tecnicamente, o web scraping funciona em três etapas principais:
 
 1. Primeiro, o programa **envia uma requisição HTTP** para o servidor do site, assim como um navegador faria quando você acessa uma página.
