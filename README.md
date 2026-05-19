@@ -23,3 +23,5 @@ No entanto, há uma questão ética e legal importante: nem todos os sites permi
 - https://github.com/microsoft/markitdown
 - https://github.com/browser-use/browser-use
 - https://python.plainenglish.io/full-apache-airflow-tutorial-interview-notes-zero-to-ready-31b5e3ae5b56
+
+<img width="1280" height="799" alt="687640848_959948516644747_1933087596060947387_n" src="https://github.com/user-attachments/assets/9ebe4b03-c4f5-415f-b435-fc84b11d1f27" />
